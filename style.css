@@ -1,0 +1,10 @@
+.body {
+    margin: 0;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    overflow-x: hidden;
+}
